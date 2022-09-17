@@ -1,3 +1,4 @@
 # Spoken Language Identification (SLID)
 
-<a href="https://github.com/aakashsri25/SLID/blob/main/Spoken%20Language%20Identification.pdf"></a>
+
+[Spoken Language Identification.pdf](https://github.com/aakashsri25/SLID/files/9592390/Spoken.Language.Identification.pdf)
